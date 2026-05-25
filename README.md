@@ -29,9 +29,9 @@ Actively contributing to communities, helping users, and exploring innovative pr
 - Community Building
 - Testnet & Airdrops
 
-## 🌍 Connect With Me
-- X/Twitter: @yourusername
-- Telegram: @yourusername
+## Connect With Me
+- X/Twitter: @Bjovee
+- Telegram: @Bjovee
 
 ---
 Building, learning, and growing in Web3 every day.
