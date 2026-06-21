@@ -42,7 +42,7 @@ The website can be deployed immediately using the server IP address.
 
 | Item | Cost |
 |--------|--------|
-| Monthly Cost | $0 |
+| Monthly Cost | $20 |
 | Domain | Not Required |
 
 ---
