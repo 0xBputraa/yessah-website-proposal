@@ -43,7 +43,7 @@ The website can be deployed immediately using the server IP address.
 | Item | Cost |
 |--------|--------|
 | Monthly Cost | $20 |
-| Domain | Not Required |
+| Domain | $8/year |
 
 ---
 
